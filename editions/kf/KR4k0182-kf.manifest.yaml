@@ -1,0 +1,249 @@
+canonical_identifier: bkk:krp/KR4k0182/kf/v1
+canonical_location: https://kanripo.org/bkk/KR4k0182/kf/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0182_000-kf.yaml, hash: 'sha256:c0dcffe13c0244a1c61cc8561c23bf8c30c6039fdd4a803e3850cbcf56363c86'}
+  - {seq: 1, filename: KR4k0182_001-kf.yaml, hash: 'sha256:1866796d876dc5ede792b1023554fedc4be945976c4d92ca363127af43525894'}
+  - {seq: 2, filename: KR4k0182_002-kf.yaml, hash: 'sha256:899af6f2748ca18930521d26206c5366220489807f9d9f1f592fa44cbe421476'}
+  - {seq: 3, filename: KR4k0182_003-kf.yaml, hash: 'sha256:58795588261cf27cb351c6f13014cfeb5b1ab958862a1a440b8650483b618686'}
+  - {seq: 4, filename: KR4k0182_004-kf.yaml, hash: 'sha256:0de582d5c8473c1c208111ac19fd92d3a424375a079c03a1e0eb9727e4a2372d'}
+  - {seq: 5, filename: KR4k0182_005-kf.yaml, hash: 'sha256:0152d41541bf0526256ffb0e4874a2bb327ab00e12c6997984d6076a7250c70b'}
+  - {seq: 6, filename: KR4k0182_006-kf.yaml, hash: 'sha256:44bfe1ee193d12f93a76973a6964bd6ee51c2c0f5ce408a338e2f198e064f42c'}
+  - {seq: 7, filename: KR4k0182_007-kf.yaml, hash: 'sha256:1342cf10a016a476e7fc713c3ed3df01926e70cc114b49c03f7d9f4cbf6d5ca9'}
+  - {seq: 8, filename: KR4k0182_008-kf.yaml, hash: 'sha256:5107fa6d3f2c6474720bedd5d8c6d495a256e5682d45b7bdc0cd25bd21bb8c84'}
+  - {seq: 9, filename: KR4k0182_009-kf.yaml, hash: 'sha256:1fcc7ed66c02c7db52e66ae2b867daff9dc5cb8aab238f00692bb791639b74a1'}
+  - {seq: 10, filename: KR4k0182_010-kf.yaml, hash: 'sha256:c7f7a168a575910a30389092f050384f1a9e5839609159ac90fc64122bc1b8a0'}
+  - {seq: 11, filename: KR4k0182_011-kf.yaml, hash: 'sha256:61d397651e9187d789159f940ab76dea5a532e967ee826f2dd0bf524609dd89c'}
+  - {seq: 12, filename: KR4k0182_012-kf.yaml, hash: 'sha256:f81645afd52fcd1ecfe83872ab41124c646109f866a4b818121557948cde9832'}
+  - {seq: 13, filename: KR4k0182_013-kf.yaml, hash: 'sha256:9867487d6cf50a841e5c0d6f8de414922c5d07434afae6fa193b090802c2d565'}
+  - {seq: 14, filename: KR4k0182_014-kf.yaml, hash: 'sha256:ce4570ddb3fd74255c653acbb6f28d7a45835ca8f95d7687236e48cf4f09b613'}
+  - {seq: 15, filename: KR4k0182_015-kf.yaml, hash: 'sha256:bdf8fb51084fffe4ba0b1f2c9916cdad48806b2eaeec827845f437d12a30a4c0'}
+  - {seq: 16, filename: KR4k0182_016-kf.yaml, hash: 'sha256:a13afcfb92eaf9056d432f9244d23668a36fe3408827f992514a2f24af261ef5'}
+  - {seq: 17, filename: KR4k0182_017-kf.yaml, hash: 'sha256:694f72269ec54cb034de0966af72f861d7585c260e7bcbb6792603e9ebae367e'}
+  - {seq: 18, filename: KR4k0182_018-kf.yaml, hash: 'sha256:1938b3f348df73637cf016eaa5b4b64a529bffb20119e9ff6cb11ec3aba8d803'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0182_000-kf.markers.yaml, hash: 'sha256:5f4ae295e3a71cc806e995eb8c20dc7ba40093ccbc8734c724b0f68806991bf6'}
+  - {seq: 1, role: markers, filename: assets/KR4k0182_001-kf.markers.yaml, hash: 'sha256:d74c779e673b97146b0b01dff137342f39b876eda9a03123d1b013183d636914'}
+  - {seq: 2, role: markers, filename: assets/KR4k0182_002-kf.markers.yaml, hash: 'sha256:c689c2c63ac5f01f7d2c3f71df91b5081f4900ccd60e8f0e329d6b4fc3de2b9e'}
+  - {seq: 3, role: markers, filename: assets/KR4k0182_003-kf.markers.yaml, hash: 'sha256:c4ab8f8e7fa75b2f4bca2714c9f63fb83eaf03109a52c3294434648231fee34a'}
+  - {seq: 4, role: markers, filename: assets/KR4k0182_004-kf.markers.yaml, hash: 'sha256:7dec1f202a2266fd61884a843a37a7f351d004c81f6f322e65d5c34f3f324eb4'}
+  - {seq: 5, role: markers, filename: assets/KR4k0182_005-kf.markers.yaml, hash: 'sha256:8a368bb3bc85c292268a9d129cb65131213b5d79361830a8c26595cf7ecc108e'}
+  - {seq: 6, role: markers, filename: assets/KR4k0182_006-kf.markers.yaml, hash: 'sha256:fe20fe6a6ddf607bec87401eeb2f3539d7c47f5eab396f5a2f7ca931f3909370'}
+  - {seq: 7, role: markers, filename: assets/KR4k0182_007-kf.markers.yaml, hash: 'sha256:bce2982fabd334759c9956d57f44cafab364e5898a3e3545103709b7fa9f50eb'}
+  - {seq: 8, role: markers, filename: assets/KR4k0182_008-kf.markers.yaml, hash: 'sha256:65745b0f5ac7c170baa7f7b4fe3c6f51ef2c01360f6559e0f82e6f11e093b5c5'}
+  - {seq: 9, role: markers, filename: assets/KR4k0182_009-kf.markers.yaml, hash: 'sha256:278396dac92933d05a9b5058556eb19d871064e7dd65b6a80f02b10e3ac5a765'}
+  - {seq: 10, role: markers, filename: assets/KR4k0182_010-kf.markers.yaml, hash: 'sha256:02a0c9fee389da61d2b53bb9e887b4ba63b98064036c42bf3aa0e22c33ada1bc'}
+  - {seq: 11, role: markers, filename: assets/KR4k0182_011-kf.markers.yaml, hash: 'sha256:41b50569bc58218eaa2cd53d1f5599ab893490d71ec743dd24dcad11a7670021'}
+  - {seq: 12, role: markers, filename: assets/KR4k0182_012-kf.markers.yaml, hash: 'sha256:25a7ef33adcbe6da0c44b6cfe224209dcc159b098d78f3ad503b8c63460d6507'}
+  - {seq: 13, role: markers, filename: assets/KR4k0182_013-kf.markers.yaml, hash: 'sha256:f000a596a16a93d5cd112056dd2172a38fb7712105bb3323c91276f050882237'}
+  - {seq: 14, role: markers, filename: assets/KR4k0182_014-kf.markers.yaml, hash: 'sha256:aff9ab8f6426fb9d1306606a2b54fbaae9ae3d12dbe2d88edfe889f64bc29cd8'}
+  - {seq: 15, role: markers, filename: assets/KR4k0182_015-kf.markers.yaml, hash: 'sha256:77a45c9a31c240d8312fd610afd4215dc0d347af6f02fab68905459c4fc6a803'}
+  - {seq: 16, role: markers, filename: assets/KR4k0182_016-kf.markers.yaml, hash: 'sha256:38f689553c1c10479ef58ad5b9834d2b51b262c7cdfdb2d701c0a516593e03ff'}
+  - {seq: 17, role: markers, filename: assets/KR4k0182_017-kf.markers.yaml, hash: 'sha256:6202f3a18264064457ddbfc7a98f32782f7d1aac86592e4f7d046885adaac578'}
+  - {seq: 18, role: markers, filename: assets/KR4k0182_018-kf.markers.yaml, hash: 'sha256:45891636089c965bef19645f9deee0ad0cdaa78a38ee657a15073e0eb5d74f94'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0182_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 756
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4k0182_kf_001-h.1
+    span:
+    - body
+    - 0
+    - 4765
+  label: 第一回衆英才花下談心
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4k0182_kf_002-h.1
+    span:
+    - body
+    - 0
+    - 2892
+  label: 第二回柳秀士舟中題句
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4k0182_kf_003-h.1
+    span:
+    - body
+    - 0
+    - 1548
+  label: 第三回兩閨英湖上遇才郎
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4k0182_kf_004-h.1
+    span:
+    - body
+    - 0
+    - 1735
+  label: 第四回梅兵憲難途托嬌女
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4k0182_kf_005-h.1
+    span:
+    - body
+    - 0
+    - 3985
+  label: 第五回棲雲庵步月訪佳人
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4k0182_kf_006-h.1
+    span:
+    - body
+    - 0
+    - 2663
+  label: 第六回合歡亭入夢逢巫女
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4k0182_kf_007-h.1
+    span:
+    - body
+    - 0
+    - 2902
+  label: 第七回假張良暗計圖連理
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4k0182_kf_008-h.1
+    span:
+    - body
+    - 0
+    - 2587
+  label: 第八回慧文君識眼辨真才
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4k0182_kf_009-h.1
+    span:
+    - body
+    - 0
+    - 4788
+  label: 第九回重結鴛鴦雙得意
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4k0182_kf_010-h.1
+    span:
+    - body
+    - 0
+    - 4611
+  label: 第十回拆開梅雪兩分離
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR4k0182_kf_011-h.1
+    span:
+    - body
+    - 0
+    - 4345
+  label: 第十一回古寺還金逢妙麗
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR4k0182_kf_012-h.1
+    span:
+    - body
+    - 0
+    - 3138
+  label: 第十二回西湖玩月續春遊
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR4k0182_kf_013-h.1
+    span:
+    - body
+    - 0
+    - 2277
+  label: 第十三回連及第馳名翰院
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR4k0182_kf_014-h.1
+    span:
+    - body
+    - 0
+    - 3654
+  label: 第十四回爲辭婚種禍邊庭
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR4k0182_kf_015-h.1
+    span:
+    - body
+    - 0
+    - 1736
+  label: 第十五回擲金錢喜蔔歸期
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR4k0182_kf_016-h.1
+    span:
+    - body
+    - 0
+    - 3183
+  label: 第十六回點宮秀暗添離恨
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR4k0182_kf_017-h.1
+    span:
+    - body
+    - 0
+    - 2203
+  label: 第十七回雪蓮馨辭朝省母
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR4k0182_kf_018-h.1
+    span:
+    - body
+    - 0
+    - 3802
+  label: 第十八回柳友梅衣錦還鄉
+  type: section
+  level: 1
+metadata:
+  title: 夢花想
+  identifiers:
+    krp: KR4k0182
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0182.xml
+  edition:
+    short: kf
+hash: sha256:a8a075414f1a2a4ceb43291b9a723ef6c426bad28f12a2e30c0aac82b1feb830
